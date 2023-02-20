@@ -167,7 +167,7 @@ class Register2Screen extends StatelessWidget {
                                   password: passwordController.text,
                                   password_2: passwordController.text,
                                   identification_type: "type",
-                                  identification_number: "1020125688",
+                                  identification_number: "",
                                   identification_image:
                                       BlocProvider.of<RegisterCubit>(context)
                                           .profileImage!,

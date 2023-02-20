@@ -8,7 +8,6 @@ class RegisterModel {
   String phone_1;
   String phone_2;
   String gender;
-
   String identification_type;
   String identification_number;
   String identification_image;
